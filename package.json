@@ -15,6 +15,10 @@
     "SignalK",
     "MongoDB"
   ],
+  "dependencies": {
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {},
   "author": "https://github.com/plainolddave",
   "license": "MIT",
   "bugs": {

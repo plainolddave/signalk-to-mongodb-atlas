@@ -1,0 +1,24 @@
+{
+  "name": "signalk-to-mongodb-atlas",
+  "version": "1.0.0",
+  "description": "SignalK Plugin to send data to a MongoDB Atlas hosted database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plainolddave/signalk-to-mongodb-atlas.git"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+    "SignalK",
+    "MongoDB"
+  ],
+  "author": "https://github.com/plainolddave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plainolddave/signalk-to-mongodb-atlas/issues"
+  },
+  "homepage": "https://github.com/plainolddave/signalk-to-mongodb-atlas#readme"
+}

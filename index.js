@@ -99,7 +99,7 @@ module.exports = function (app) {
         // individually per path, as there may be different paremeters set for the context
         options.pathArray.forEach(pathOption => {
 
-            // its useful to be able to turn paths on or off, when trying out options for setup of InfluxDB2.0
+            // its useful to be able to turn paths on or off, when trying out options for setup of MongoDB
             if (pathOption.enabled === true) {
 
                 // create a subsciption definition
@@ -239,7 +239,7 @@ module.exports = function (app) {
                         "enabled": {
                             "type": "boolean",
                             "title": "Enabled?",
-                            "description": "enable writes to Influxdb2.0 for this path (server restart is required)",
+                            "description": "enable writes to MongoDB Atlas for this path (server restart is required)",
                             "default": true
                         },
                         "context": {

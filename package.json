@@ -11,7 +11,7 @@
     "url": "git+https://github.com/plainolddave/signalk-to-mongodb-atlas.git"
   },
   "keywords": [
-    "signalk-node-server-plugin"
+    "signalk-node-server-plugin",
     "SignalK",
     "MongoDB"
   ],

@@ -1,6 +1,6 @@
 {
   "name": "signalk-to-mongodb-atlas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SignalK Plugin to send data to a MongoDB Atlas hosted database",
   "main": "index.js",
   "scripts": {
